@@ -154,19 +154,15 @@ This project is an open invitation to join us in making a positive impact. Contr
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](https://github.com/indranil143/Mental-Health-Sentiment-Analysis-using-Deep-Learning/blob/main/LICENSE).
-
----
 
 ## 📧 Contact
 
 🤝 For any inquiries or collaborations, feel free to reach out to the project maintainer: 
 
 **indranil143**
-* GitHub: https://github.com/indranil143
-* Email: banerjeeindranil143@gmail.com
+* GitHub: https://github.com/rishika-ranjan
+* Email: rishika456ranjan@gmail.com
 
 If you or someone you know needs immediate help, please contact one of the following resources:
 - National Suicide Prevention Lifeline: 1-800-273-8255
